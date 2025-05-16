@@ -1,3 +1,5 @@
+// Для выполнения этого задания я использовал стороннюю библиотеку org.json
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 import java.io.IOException;
